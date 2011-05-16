@@ -1,0 +1,3 @@
+This is a modified version of the fast and small UUID library from Johann Burkard at http://johannburkard.de/software/uuid/.
+
+The only real reason for the fork was the ability to easily deploy it to the central Maven repos and to make minor modifications with easy deployment.
